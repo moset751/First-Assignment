@@ -7,7 +7,10 @@ Eek! First assignment! So scary. Your first assignment is this:
 
 2) make a website.
 
-3) make a repository in the GitHub organization and upload your website code.
+3) make a repository in the GitHub organization (name it whatever you want!)
+
+(optional)
+4) upload your website code to the repository you make.
 
 These are all new skills. Try and Google around if you get stuck, or e-mail me!
 
