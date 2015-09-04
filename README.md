@@ -9,7 +9,7 @@ Eek! First assignment! So scary. Your first assignment is this:
 
 3) make a repository in the GitHub organization (name it whatever you want!)
 
-4) find a piece of design or anything visual really that you like. doesn't matter what! could be a picture of a picture of a rock with a drawing of a rock on it. BRING THE URL TO CLASS.
+4) find a piece of design, or anything visual really, that you like. doesn't matter what! could be a picture of a picture of a rock with a drawing of a rock on it. BRING THE URL TO CLASS.
 
 (optional, but do it...)
 5) upload your website code to the repository you make.
