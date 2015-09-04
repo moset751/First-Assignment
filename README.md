@@ -9,6 +9,9 @@ Eek! First assignment! So scary. Your first assignment is this:
 
 3) make a repository in the GitHub organization and upload your website code.
 
+These are all new skills. Try and Google around if you get stuck, or e-mail me! You can do it!
+![You can do this.](http://cnl.h.cdn.cosmopolitan.nl/assets/15/31/1438003573-tumblr-inline-nnzc7w5zub1s18t9u-500.gif)
+
 # Names
 
 Chris Allick - allickc@newschool.edu
