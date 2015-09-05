@@ -21,3 +21,4 @@ These are all new skills. Try and Google around if you get stuck, or e-mail me!
 # Names
 
 Chris Allick - allickc@newschool.edu
+Tamir Moses - moset751@newschool.edu
