@@ -20,4 +20,5 @@ These are all new skills. Try and Google around if you get stuck, or e-mail me!
 
 # Names
 Richard "Team" Supriano - suprr044@newschool.edu
+
 Chris Allick - allickc@newschool.edu
