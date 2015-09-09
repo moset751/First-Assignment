@@ -19,6 +19,9 @@ These are all new skills. Try and Google around if you get stuck, or e-mail me!
 ![You can do this.](http://cnl.h.cdn.cosmopolitan.nl/assets/15/31/1438003573-tumblr-inline-nnzc7w5zub1s18t9u-500.gif)
 
 # Names
+
+Vicky Boyd - boydv991@newschool.edu
+
 Richard "Team" Supriano - suprr044@newschool.edu
 
 Chris Allick - allickc@newschool.edu
