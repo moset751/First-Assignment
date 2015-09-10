@@ -21,8 +21,12 @@ These are all new skills. Try and Google around if you get stuck, or e-mail me!
 # Names
 Taylor Mussenden - musst248@newschool.edu
 
+Becca Zhou - zhouj422@newschool.edu
+
 Vicky Boyd - boydv991@newschool.edu
 
 Richard "Team" Supriano - suprr044@newschool.edu
 
 Chris Allick - allickc@newschool.edu
+
+
